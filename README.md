@@ -16,7 +16,7 @@
 ![Profile](docs/screenshots/04_profile.png)
 ![Info](docs/screenshots/05_info.png)
 
-## Struktur Kode Baru
+## Struktur Kode
 
 - `lib/main.dart` : Root `MaterialApp` + definisi routes.
 - `lib/login_view.dart` : Form login, simpan username.
@@ -29,7 +29,7 @@
 
 ### Routing
 
-Menggunakan map `routes` sederhana di `main.dart`:
+Menggunakan map `routes` di `main.dart`:
 
 ```dart
 MaterialApp(
